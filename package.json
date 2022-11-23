@@ -11,7 +11,7 @@
   "keywords": ["galaxy life", "api", "wrapper"],
   "author": "Raul <mailctrlraul@gmail.com>",
   "repository": {
-    "url": "",
+    "url": "https://github.com/ctrlraul/GalaxyLife.git",
     "type": "git"
   },
   "license": "ISC",
