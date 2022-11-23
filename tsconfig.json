@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "strict": true,
+		"outDir": "dist",
+		"moduleResolution": "node",
+        "declaration": true
+    }
+}
