@@ -1,7 +1,7 @@
 {
   "name": "galaxylife",
   "version": "0.0.1",
-  "description": "Galaxy Life API wrapper.",
+  "description": "Fully typed Galaxy Life API wrapper.",
   "main": "dist/index.js",
   "scripts": {
     "start": "node build",
